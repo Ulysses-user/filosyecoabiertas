@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Filosofía de la Ciencia y de la Economía
 
 You can use the [editor on GitHub](https://github.com/Ulysses-user/filosyecoabiertas/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
