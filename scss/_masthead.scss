@@ -21,7 +21,7 @@ header.masthead {
   .site-heading {
     padding: 100px 0 150px;
     color: white;
-    @media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 700px) {
       padding: 200px 0;
     }
   }
@@ -40,7 +40,7 @@ header.masthead {
       margin: 10px 0 0;
       @include sans-serif-font;
     }
-    @media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 700px) {
       h1 {
         font-size: 80px;
       }
@@ -70,7 +70,7 @@ header.masthead {
         color: $white;
       }
     }
-    @media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 700px) {
       h1 {
         font-size: 55px;
       }
